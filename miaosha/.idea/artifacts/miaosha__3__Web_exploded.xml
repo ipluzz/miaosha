@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="miaosha (3):Web exploded">
+    <output-path>E:/IDEA/artifacts/miaosha__3__Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="miaosha (3)/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="miaosha (3)" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
